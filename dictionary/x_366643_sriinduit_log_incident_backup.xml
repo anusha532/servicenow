@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="log incident backup" max_length="40" name="x_366643_sriinduit_log_incident_backup" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="short discription" max_length="100" name="short_discription" type="string"/>
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+    </element>
+</database>

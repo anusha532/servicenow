@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="632feed02f823300f796f3ecf699b60e" sys_domain="global" table="x_366643_sriinduit_log_incident" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>bb2feed02f823300f796f3ecf699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>3f2feed02f823300f796f3ecf699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>bf2feed02f823300f796f3ecf699b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>affected_user</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>332feed02f823300f796f3ecf699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>b32feed02f823300f796f3ecf699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>372feed02f823300f796f3ecf699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_id>b72feed02f823300f796f3ecf699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">632feed02f823300f796f3ecf699b60e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366643_sriinduit_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:16:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>632feed02f823300f796f3ecf699b60e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366643_sriinduit_log_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sriinduIT" source="x_366643_sriinduit">4fcbf9102f023300f796f3ecf699b6d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriinduIT">4fcbf9102f023300f796f3ecf699b6d4</sys_scope>
+            <sys_update_name>sys_ui_section_632feed02f823300f796f3ecf699b60e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:16:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">783811707420330078509adcc48c87a3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

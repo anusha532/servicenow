@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="74ca8b542fc23300f796f3ecf699b627" sys_domain="global" table="x_366643_sriinduit_students" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:17:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ca8b542fc23300f796f3ecf699b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366643_sriinduit_students" name="x_366643_sriinduit_students" sys_domain="global" view="f0ca0b542fc23300f796f3ecf699b631">74ca8b542fc23300f796f3ecf699b627</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366643_sriinduit_students" sys_domain="global" view="f0ca0b542fc23300f796f3ecf699b631">f0ca8b542fc23300f796f3ecf699b626</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:17:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:17:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30ca8b542fc23300f796f3ecf699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366643_sriinduit_students" name="x_366643_sriinduit_students" sys_domain="global" view="f0ca0b542fc23300f796f3ecf699b631">74ca8b542fc23300f796f3ecf699b627</sys_ui_form>
+            <sys_ui_section caption="anu view" display_value="anu view" name="x_366643_sriinduit_students" sys_domain="global" view="f0ca0b542fc23300f796f3ecf699b631">b8ca8b542fc23300f796f3ecf699b626</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:17:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366643_sriinduit_students</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:17:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ca8b542fc23300f796f3ecf699b627</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366643_sriinduit_students</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sriinduIT" source="x_366643_sriinduit">4fcbf9102f023300f796f3ecf699b6d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriinduIT">4fcbf9102f023300f796f3ecf699b6d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_74ca8b542fc23300f796f3ecf699b627</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:17:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="anu view" name="anu_view">f0ca0b542fc23300f796f3ecf699b631</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

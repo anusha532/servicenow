@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="suggestion">f13bc4c92f0e3300f796f3ecf699b676</sc_cat_item>
+        <sc_catalog display_value="collage catalog">515465382f863300f796f3ecf699b6bf</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:17:01</sys_created_on>
+        <sys_id>6b7b800d2f0e3300f796f3ecf699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>collage catalog.suggestion</sys_name>
+        <sys_package display_value="sriinduIT" source="x_366643_sriinduit">4fcbf9102f023300f796f3ecf699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduIT">4fcbf9102f023300f796f3ecf699b6d4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6b7b800d2f0e3300f796f3ecf699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:17:01</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

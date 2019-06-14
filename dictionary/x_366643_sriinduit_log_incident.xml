@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366643_sriinduit_log_incident" sizeclass="2" type="collection">
+        <element label="affected" max_length="32" name="affected_user" reference="sys_user" type="reference"/>
+        <element choice="1" label="contact type2" max_length="100" name="contact_type2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="log" value="log"/>
+            </choice>
+        </element>
+        <element label="request datetime" max_length="40" name="request_datetime" type="glide_date_time"/>
+        <element label="return datetime" max_length="40" name="return_datetime" type="glide_date_time"/>
+        <element label="sriindu short description" max_length="100" name="sriindu_short_description" type="string"/>
+    </element>
+</database>

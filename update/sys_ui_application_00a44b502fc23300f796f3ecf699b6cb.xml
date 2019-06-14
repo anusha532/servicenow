@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>collages</name>
+        <order/>
+        <roles>x_366643_sriinduit.collages_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 09:50:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>00a44b502fc23300f796f3ecf699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>collages</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sriinduIT" source="x_366643_sriinduit">4fcbf9102f023300f796f3ecf699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduIT">4fcbf9102f023300f796f3ecf699b6d4</sys_scope>
+        <sys_update_name>sys_ui_application_00a44b502fc23300f796f3ecf699b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 09:50:26</sys_updated_on>
+    </sys_ui_application>
+</record_update>
